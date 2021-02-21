@@ -14,7 +14,7 @@
   flex: 1;
   flex-direction: column;
   
-  padding: 0px 16px;
+  padding: 16px 16px 0px 16px;
 
   @include for-tablet-landscape-up {
     width: 900px;
