@@ -10,6 +10,31 @@ export const frameworks = [
         color: "#1983FF"
     },
     {
+        name: "Node.js",
+        href: "https://nodejs.org/en/",
+        color: "#026E00"
+    },
+    {
+        name: "Jest",
+        href: "https://jestjs.io/",
+        color: "#99425B"
+    },
+    {
+        name: "Cypress",
+        href: "https://www.cypress.io/",
+        color: "#25262C"
+    },
+    {
+        name: "Git",
+        href: "https://git-scm.com/",
+        color: "#F54D27"
+    },
+    {
+        name: "Firebase",
+        href: "https://firebase.google.com/",
+        color: "#F6840C"
+    },
+    {
         name: "Angular",
         href: "https://angular.io/",
         color: "#C3002F"
@@ -30,39 +55,14 @@ export const frameworks = [
         color: "#00DE7A"
     },
     {
-        name: "Cordova",
-        href: "https://cordova.apache.org/",
-        color: "#4CC2E4"
-    },
-    {
-        name: "Node.js",
-        href: "https://nodejs.org/en/",
-        color: "#026E00"
-    },
-    {
-        name: "Express.js",
-        href: "https://expressjs.com/",
-        color: "#259DFF"
-    },
-    {
         name: "PostgreSQL",
         href: "https://www.postgresql.org/",
         color: "#336791"
     },
     {
-        name: "Git",
-        href: "https://git-scm.com/",
-        color: "#F54D27"
-    },
-    {
-        name: "Jest",
-        href: "https://jestjs.io/",
-        color: "#99425B"
-    },
-    {
-        name: "Firebase",
-        href: "https://firebase.google.com/",
-        color: "#F6840C"
+        name: "Docker",
+        href: "https://www.docker.com/",
+        color: "#2496ED"
     }
 ];
 
