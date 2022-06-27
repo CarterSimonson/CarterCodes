@@ -1,0 +1,9 @@
+.contactForm {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+
+  input, textarea {
+      margin-bottom: 8px;
+  }
+}

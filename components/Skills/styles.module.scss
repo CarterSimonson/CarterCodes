@@ -1,0 +1,16 @@
+@import "styles/colors.scss";
+
+.badgeContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.badge {
+  color: $grey-100;
+  display: inline-block;
+  padding: 8px 12px;
+  margin: 0px 8px 8px 0px;
+  border-radius: 16px;
+  cursor: pointer;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from 'styles/Home.module.scss'
+import styles from './styles.module.scss'
 
 export default function JobExperience({ company, title, dates, description }) {
   return (
