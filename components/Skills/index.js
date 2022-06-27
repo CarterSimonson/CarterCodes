@@ -9,12 +9,12 @@ export default function Skills() {
       <h2 className='section-header'>SKILLS</h2>
       <h3>Frameworks and Tools</h3>
       <div className={badgeContainer}>
-        { frameworks.map(skill => <Badge {...skill}>{ skill.name }</Badge>) }
+        { frameworks.map((skill, index) => <Badge {...skill} key={index}>{ skill.name }</Badge>) }
       </div>
 
       <h3>Languages</h3>
       <div className={badgeContainer}>
-        { languages.map(skill => <Badge {...skill}>{ skill.name }</Badge>) }
+        { languages.map((skill, index) => <Badge {...skill} key={index}>{ skill.name }</Badge>) }
       </div>
     </div>
   );
