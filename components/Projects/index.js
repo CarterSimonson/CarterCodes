@@ -36,7 +36,7 @@ export default function Projects() {
       >
         <p>
           A basic URL shortener implementation written with Flask, SQLite, and vanilla HTML/CSS/JS. The service is configured with Github actions to automatically build and deploy
-          to a DigitalOcean Droplet on each commit. My goal with this project was to refresh my knowledge on Python, SQL, Docker, Nginx, and Github Actions.
+          to a DigitalOcean Droplet on each commit. My goal with this project was to refresh my knowledge of Python, SQL, Docker, Nginx, and Github Actions.
           A live demo can be found at <a href='https://shorten.minidev.io' target='_blank' rel='noopener'>shorten.minidev.io</a>.
           The source code can be found <a href='https://github.com/CarterSimonson/miniurl' target='_blank' rel='noopener'>here</a>.
         </p>
