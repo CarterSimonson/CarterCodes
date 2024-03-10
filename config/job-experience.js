@@ -1,9 +1,9 @@
 export const jobExperience = [
     {
         company: "Zendesk",
-        title: "Frontend Software Engineer",
+        title: "Software Engineer",
         dates: "Dec 2020 - Current",
-        description: "Working to innovate the trial onboarding experience of Zendesk's Support product using React and Next.js in conjunction with Jest and Cypress."
+        description: "Contributing to innovations in the onboarding experience of Zendesk's Support product."
     },
     {
         company: "Mobile22",

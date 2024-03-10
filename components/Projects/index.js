@@ -17,6 +17,21 @@ export default function Projects() {
       <h2 className='section-header'>PROJECTS</h2>
 
       <Project
+        title='Chopbop'
+        img='/assets/projects/chopbop.webp'
+        alt='Chopbop Screenshot'
+        className='margin-bottom-lg'
+      >
+        <p>
+          Chopbop is a recipe management application that allows users to save and manage their recipes
+          without the hastle of excessive popups, ads, and filler text. Users are able to save, sync,
+          and customize their recipe collection across all of their devices. I built the mobile app on React
+          Native paired with a Firebase backend.
+          {' '}<a href='https://chopbop.com' target='_blank' rel='noopener'>It can be found here</a>.
+        </p>
+      </Project>
+
+      <Project
         title='Kenshi Interactive Map'
         img='/assets/projects/kenshimap.webp'
         alt='Kenshi Map Screenshot'
