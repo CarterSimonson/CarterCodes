@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document'
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 import GA_TRACKING_ID from "config/analytics";
 
@@ -30,6 +30,6 @@ export default class SiteDocument extends Document {
           <NextScript />
         </body>
       </Html>
-    )
+    );
   }
 }

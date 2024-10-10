@@ -1,15 +1,15 @@
-import Head from 'next/head';
+import Head from "next/head";
 
+import styles from "styles/Home.module.scss";
 
-import styles from 'styles/Home.module.scss'
-
-import Intro from 'components/Intro';
-import About from 'components/About';
-import Projects from 'components/Projects';
-import Experience from 'components/Experience';
-import Skills from 'components/Skills';
-import Contact from 'components/Contact';
-import Footer from 'components/Footer';
+import Intro from "components/Intro";
+import About from "components/About";
+import Projects from "components/Projects";
+import Experience from "components/Experience";
+import Skills from "components/Skills";
+import Contact from "components/Contact";
+import Footer from "components/Footer";
+import Education from "components/Education";
 
 export default function Home() {
   return (
@@ -23,12 +23,13 @@ export default function Home() {
         <Intro />
         <About />
         <Projects />
-        <Experience />
         <Skills />
+        <Experience />
+        <Education />
         <Contact />
       </main>
-        
+
       <Footer />
     </div>
-  )
+  );
 }
