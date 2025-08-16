@@ -18,22 +18,27 @@ export default function About() {
           Leum Technologies
         </a>
         . This role motivated me to expand my skills, delving into web
-        development, API architecture, and mobile development to build software
-        for local businesses.
+        development, API architecture, and mobile development to solve impactful
+        small-business problems with software.
         <br />
         <br />
-        My career then took me to Madison, WI, where I first helped bootstrap a
-        taxi management platform at{" "}
-        <a
-          href="https://www.linkedin.com/company/mobile22/"
-          target="_blank"
-          rel="noopener"
-        >
-          Mobile22
-        </a>
-        . More recently, I've been contributing to product onboarding frameworks
-        with Zendesk's Growth and Monetization team, where I continue to expand
-        my skills in developing and maintaining performant web applications.
+        I've been very fortunate to have the opportunity to contribute to some
+        very interesting projects since:
+        <br />
+        <ul>
+          <li>
+            Working with a small team to bootstrap a taxi management platform
+            SaaS at Mobile22
+          </li>
+          <li>
+            Optimizing customer onboarding experiences on Zendesk's Growth and
+            Monetization team
+          </li>
+          <li>
+            Most recently, contributing to safety-critical systems on Samsara's
+            Worker Safety team
+          </li>
+        </ul>
       </p>
     </div>
   );

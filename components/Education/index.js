@@ -8,7 +8,7 @@ export default function Experience() {
 
       <Education
         school="Western Governors University"
-        title="Bachelor's in Computer Science, Expected January 2025"
+        title="Computer Science, BS, Graduated 2024"
       ></Education>
     </div>
   );
