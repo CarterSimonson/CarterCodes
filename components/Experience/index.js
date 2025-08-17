@@ -13,7 +13,7 @@ export default function Experience() {
         <ul>
           <li>
             Contributing to safety-critical systems on Samsara's Worker Safety
-            team
+            team.
           </li>
         </ul>
       </JobExperience>

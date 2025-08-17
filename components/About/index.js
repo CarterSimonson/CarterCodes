@@ -25,21 +25,21 @@ export default function About() {
         I've been very fortunate to have the opportunity to contribute to some
         very interesting projects since:
         <br />
-        <ul>
-          <li>
-            Working with a small team to bootstrap a taxi management platform
-            SaaS at Mobile22
-          </li>
-          <li>
-            Optimizing customer onboarding experiences on Zendesk's Growth and
-            Monetization team
-          </li>
-          <li>
-            Most recently, contributing to safety-critical systems on Samsara's
-            Worker Safety team
-          </li>
-        </ul>
       </p>
+      <ul>
+        <li>
+          Working with a small team to bootstrap a taxi management platform SaaS
+          at Mobile22
+        </li>
+        <li>
+          Optimizing customer onboarding experiences on Zendesk's Growth and
+          Monetization team
+        </li>
+        <li>
+          Most recently, contributing to safety-critical systems on Samsara's
+          Worker Safety team
+        </li>
+      </ul>
     </div>
   );
 }
